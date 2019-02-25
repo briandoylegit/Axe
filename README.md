@@ -5,5 +5,6 @@
   <img width="500" height="500" src="https://github.com/briandoylegit/K67/blob/master/images/Ballinturly.gif">
 </p>
 <p style="text-align: center;">IMAGE: A very large (110 metre) enclosure at Ballinturly, County Roscommon, Ireland, - identified using LIDAR imagery.</p>
+<p style="text-align: center;">Latitude: 53.70170  Longitude: -8.31400</p>
 
       
