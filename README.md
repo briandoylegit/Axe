@@ -6,11 +6,22 @@
 </p>
 <p style="text-align: center;">IMAGE: A very large (110 metre) enclosure at Ballinturly, County Roscommon, Ireland, - identified using LIDAR imagery.</p>
 <p style="text-align: center;">Latitude: 53.70170  Longitude: -8.31400</p>
+
+
+
+
+
 K67 is a simple map based tool created for the purpose of demonstrating the effectivness of using LIDAR and readily available aerial imagery, to locate Irish Archaeological Features.
+
+
 
 K67 uses the brilliant Leaflet mapping framework.
 
+
+
 Please note and observe the rights and copyright notices of the various providers of aerial imagery.
+
+
 
 
 Installation:
