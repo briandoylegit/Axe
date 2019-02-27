@@ -55,7 +55,7 @@ To follow
 
 ## Author
 
-* **Brian Doyle** - briandoyle.kerbstone52@gmail.com [Kerbstone52.ie](https://kerbstone52.ie)
+* **Brian Doyle** - contact:  briandoyle.kerbstone52@gmail.com   website:  [Kerbstone52.ie](https://kerbstone52.ie)
 
 ## License
 
