@@ -26,9 +26,10 @@ Please note and observe the copyright notices of the various providers of aerial
 ```
 Unzip K67.zip to a folder
 
-Visit: https://docs.microsoft.com/en-us/bingmaps/.../bing-maps-dev.../getting-a-bing-maps-key and follow the instructions to create your own bing-maps-key
+Visit: https://docs.microsoft.com/en-us/bingmaps/.../bing-maps-dev.../getting-a-bing-maps-key
+Follow the instructions to create your own bing-maps-key
 
-Use a text editor (e.g. Notepad ++) to substitute your own key at this position
+Use a text editor (e.g. Notepad ++) edit the K67.html file and substitute your own bing key at this position
 
 // Insert BING KEY Here
 var BING_KEY = 'AmPQVvaKSid_g48EnFJjbYUOyWPlkQh1QGJlsFFZnw1EnJioQ5kvSiv2w7SUaJ9B'
@@ -38,6 +39,13 @@ Open the K67.html file with a browser
 ### Usage
 
 To follow
+-
+-
+-
+-
+-
+-
+-
 
 
 
@@ -47,7 +55,7 @@ To follow
 
 ## Author
 
-* **Brian Doyle** - [Kerbstone52](https://kerbstone52.ie)
+* **Brian Doyle** - briandoyle.kerbstone52@gmail.com [Kerbstone52.ie](https://kerbstone52.ie)
 
 ## License
 
