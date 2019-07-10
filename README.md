@@ -1,5 +1,7 @@
-# K67
-<H2>A simple map based web-page created to locate Irish archaeological features using LIDAR and Aerial Imagery.</H2>
+# Axe  
+
+
+<H2>Archaeology Explorer - A simple map based web-page created to locate Irish archaeological features using LIDAR and Aerial Imagery.</H2>
 
 <p align="center">
   <img width="500" height="500" src="https://github.com/briandoylegit/K67/blob/master/images/Ballinturly.gif">
