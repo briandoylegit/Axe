@@ -15,7 +15,7 @@
 
 ## About
 
-K67 is a very simple map based tool created for the purpose of demonstrating the effectivness of using LIDAR and readily available aerial imagery, to locate Irish Archaeological Features. Essentially just a webpage, K67 uses the brilliant Leaflet mapping framework to present a collection of Map and Overlay layers which can be used to identify features in the Irish landscape and easily determine if features have a record associated with them in the the National Monuments Database.
+axe.html is a very simple map based web page created for the purpose of demonstrating the effectivness of using LIDAR and readily available aerial imagery, to locate Irish Archaeological Features. Essentially just a webpage, K67 uses the brilliant Leaflet mapping framework to present a collection of Map and Overlay layers which can be used to identify features in the Irish landscape and easily determine if features have a record associated with them in the the National Monuments Database.
 
 ### Copyright
 
@@ -26,7 +26,7 @@ Please note and observe the copyright notices of the various providers of aerial
 ### Installation
 
 ```
-Unzip K67.zip to a folder
+Download and run axe.html
 
 Visit: https://docs.microsoft.com/en-us/bingmaps/.../bing-maps-dev.../getting-a-bing-maps-key
 Follow the instructions to create your own bing-maps-key
