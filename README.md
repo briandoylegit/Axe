@@ -42,7 +42,7 @@ Open the axe.html file with a browser
 ```
 ### Usage
 
-Compare the known (National Monumnets Layer) with the potentially unknown (what you observe in the aerial and LIDAR imagery)
+Compare the known (National Monuments Layer) with the potentially unknown (what you observe in the aerial and LIDAR imagery)
 
 ## Built With
 
